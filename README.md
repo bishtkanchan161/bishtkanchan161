@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Kanchan ! 👋
 
-<!--
-**bishtkanchan161/bishtkanchan161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | BCA Student
 
-Here are some ideas to get you started:
+I'm a BCA final-year student interested in Data Analytics, Programming, and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, learning new technologies, and solving real-world problems through projects.
+
+### 💻 Technical Skills
+
+- **Programming:** Python, C
+- **Data Analysis:** Pandas, NumPy
+- **Database:** SQL
+- **Visualization:** Matplotlib, Seaborn
+- **Tools:** Microsoft Excel, Power BI
+
+### 🚀 My Projects
+
+- Personal Expense and Budget Manager – Python
+- Simple Chatbot – C++
+- Hangman Game – C
+
+### 🎓 Education
+
+- Bachelor of Computer Applications (BCA)
+
+### 🌱 Currently Learning
+
+- Advanced Excel
+- SQL
+- Power BI
+- Data Analytics
+
+### 📫 Connect With Me
+
+- GitHub: [@bishtkanchan161](https://github.com/bishtkanchan161)
+
+---
+
+⭐ Thanks for visiting my profile!
